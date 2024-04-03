@@ -8,6 +8,9 @@ Hope you like it!
 
 ## Screenshots
 
+![Screenshot from 2024-04-03 15-04-16](https://github.com/diku-py/countdown-timer/assets/165680478/91b97c12-dcce-45ad-a2f8-1e4119a5721e)
+![Screenshot from 2024-04-03 15-04-09](https://github.com/diku-py/countdown-timer/assets/165680478/b5d3cd66-434d-4d25-a42f-486519ed1180)
+![Screenshot from 2024-04-03 15-04-01](https://github.com/diku-py/countdown-timer/assets/165680478/697e9954-1bb3-4577-af91-1d7c3bbed702)
 
 ## Wanna modify?
 
